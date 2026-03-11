@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Api key
+```text
+.env
+pycache/
+*.db
+
+# Rag Database
+chroma_db/
